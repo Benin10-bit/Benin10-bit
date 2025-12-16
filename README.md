@@ -52,7 +52,7 @@
 ### 📊 Automação de Boletim Escolar
 - Sistema Java usando Selenium para capturar notas do SUAP  
 - Calcula médias ponderadas e analisa desempenho por disciplina  
-[Ver repositório](#)
+[Ver repositório](https://github.com/Benin10-bit/BotSuapJava)
 
 ---
 
